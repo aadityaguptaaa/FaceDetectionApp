@@ -79,13 +79,3 @@ This project is **open-source** under the [MIT License](LICENSE). Use, modify, a
 - Multi-face tracking  
 - Standalone executable for distribution  
 
----
-
-### ⚡ Optional GitHub Actions Badges (for advanced users)
-Once you add GitHub Actions for builds/tests, you can include badges like:  
-```markdown
-![Java CI](https://github.com/aadityaguptaaae/FaceDetectionApp/actions/workflows/build.yml/badge.svg)
-![Coverage](https://img.shields.io/codecov/c/github/aadityaguptaaa/FaceDetectionApp)
-```
-These **automatically update** to show repo health, build status, and code coverage.
-
