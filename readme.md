@@ -1,11 +1,11 @@
 # FaceDetectionApp 🎯
 
-![Repo Size](https://img.shields.io/github/repo-size/your-username/FaceDetectionApp?color=blue)
-![Contributors](https://img.shields.io/github/contributors/your-username/FaceDetectionApp?color=green)
-![Stars](https://img.shields.io/github/stars/your-username/FaceDetectionApp?style=social)
-![Forks](https://img.shields.io/github/forks/your-username/FaceDetectionApp?style=social)
-![Issues](https://img.shields.io/github/issues/your-username/FaceDetectionApp)
-![License](https://img.shields.io/github/license/your-username/FaceDetectionApp)
+![Repo Size](https://img.shields.io/github/repo-size/aadityaguptaaa/FaceDetectionApp?color=blue)
+![Contributors](https://img.shields.io/github/contributors/aadityaguptaaa/FaceDetectionApp?color=green)
+![Stars](https://img.shields.io/github/stars/aadityaguptaaa/FaceDetectionApp?style=social)
+![Forks](https://img.shields.io/github/forks/aadityaguptaaa/FaceDetectionApp?style=social)
+![Issues](https://img.shields.io/github/issues/aadityaguptaaa/FaceDetectionApp)
+![License](https://img.shields.io/github/license/aadityaguptaaa/FaceDetectionApp)
 
 **FaceDetectionApp** is a **JavaFX desktop application** that performs **real-time face detection** using **OpenCV’s Haar Cascade classifier**. It provides a **user-friendly GUI** for capturing video or images and detecting human faces instantly. Ideal for learning, prototyping, or building advanced face recognition systems.  
 
@@ -84,8 +84,8 @@ This project is **open-source** under the [MIT License](LICENSE). Use, modify, a
 ### ⚡ Optional GitHub Actions Badges (for advanced users)
 Once you add GitHub Actions for builds/tests, you can include badges like:  
 ```markdown
-![Java CI](https://github.com/your-username/FaceDetectionApp/actions/workflows/build.yml/badge.svg)
-![Coverage](https://img.shields.io/codecov/c/github/your-username/FaceDetectionApp)
+![Java CI](https://github.com/aadityaguptaaae/FaceDetectionApp/actions/workflows/build.yml/badge.svg)
+![Coverage](https://img.shields.io/codecov/c/github/aadityaguptaaa/FaceDetectionApp)
 ```
 These **automatically update** to show repo health, build status, and code coverage.
 
