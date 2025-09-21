@@ -78,4 +78,4 @@ This project is **open-source** under the [MIT License](LICENSE)
 
 <br>
 
-> Crafted with ☁️ by [aadityaguptaaa](https://github.com/aadityaguptaaa)
+> Developed by [aadityaguptaaa](https://github.com/aadityaguptaaa) | JavaFX & OpenCV Enthusiast
