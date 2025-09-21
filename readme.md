@@ -78,7 +78,6 @@ This project is **open-source** under the [MIT License](LICENSE)
 
 
 
-
 ## ✨ Future Enhancements
 - Face recognition using deep learning models  
 - Export detected faces as images  
