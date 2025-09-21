@@ -54,6 +54,7 @@ git clone https://github.com/aadityaguptaaa/FaceDetectionApp.git
 
 
 
+
 ## 🎮 Usage Guide
 1. Launch the application from Eclipse.  
 2. Click **Start Webcam** to begin video capture.  
