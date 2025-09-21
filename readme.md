@@ -17,10 +17,7 @@
 - **Modular Architecture:** Clean code structure with `FaceDetector`, `Main`, and `UIController`.  
 - **Customizable Design:** Interface styled via `styles.css`.  
 - **Extensible:** Expandable for face recognition, tracking, or AI applications.  
-
-
-
-
+<br>
 
 ## 🛠️ Technology Stack
 | Component | Technology |
@@ -30,11 +27,7 @@
 | Computer Vision Library | OpenCV (Haar Cascade) |
 | IDE | Eclipse |
 | Styling | CSS (`styles.css`) |
-
-
-
-
-
+<br>
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**  
 ```bash
@@ -49,10 +42,8 @@ git clone https://github.com/aadityaguptaaa/FaceDetectionApp.git
 
 4. **Run the project:**  
    - Execute `Main.java` as a Java Application  
-   - GUI window opens to start real-time face detection  
-
-
-
+   - GUI window opens to start real-time face detection
+ <br>
 
 ## 🎮 Usage Guide
 1. Launch the application from Eclipse.  
@@ -60,9 +51,7 @@ git clone https://github.com/aadityaguptaaa/FaceDetectionApp.git
 3. Detected faces will be **highlighted in real-time**.  
 
 > Tip: Adjust Haar Cascade parameters in `FaceDetector.java` for better accuracy.  
-
-
-
+<br>
 
 ## 🤝 Contributing
 We welcome contributions!  
@@ -71,13 +60,11 @@ We welcome contributions!
 3. Commit changes (`git commit -m "Add feature"`)  
 4. Push branch (`git push origin feature-name`)  
 5. Open a **Pull Request**  
-
-
+<br>
 
 ## 📄 License
 This project is **open-source** under the [MIT License](LICENSE)
-
-
+<br>
 
 ## ✨ Future Enhancements
 - Face recognition using deep learning models  
@@ -85,8 +72,6 @@ This project is **open-source** under the [MIT License](LICENSE)
 - Multi-face tracking  
 - Standalone executable for distribution  
 
-
-
-
+<br>
 
 > Crafted with ☁️ by [aadityaguptaaa](https://github.com/aadityaguptaaa)
