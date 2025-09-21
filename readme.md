@@ -1,4 +1,4 @@
-# FaceDetectionApp 
+# Face Detection App 
 
 ![Repo Size](https://img.shields.io/github/repo-size/aadityaguptaaa/FaceDetectionApp?color=blue)
 ![Contributors](https://img.shields.io/github/contributors/aadityaguptaaa/FaceDetectionApp?color=green)
