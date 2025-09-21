@@ -1,0 +1,15 @@
+.button {
+    -fx-background-color: #3a86ff;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 8 15;
+    -fx-background-radius: 8;
+}
+
+.button:hover {
+    -fx-background-color: #265d97;
+}
+
+.anchor-pane {
+    -fx-background-color: #121212;
+}

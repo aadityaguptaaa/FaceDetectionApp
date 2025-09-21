@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="600" prefWidth="800" xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="application.UIController">
+
+    <children>
+        <VBox alignment="CENTER" spacing="10" layoutX="20" layoutY="20">
+            <Button fx:id="btnLoadImage" text="Load Image & Detect Faces" onAction="#loadImage"/>
+            <Button fx:id="btnWebcam" text="Start Webcam Detection" onAction="#startWebcam"/>
+            <ImageView fx:id="imageView" fitHeight="500" fitWidth="760" preserveRatio="true"/>
+        </VBox>
+    </children>
+</AnchorPane>
