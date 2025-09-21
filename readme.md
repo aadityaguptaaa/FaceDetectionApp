@@ -24,6 +24,7 @@
 
 
 
+
 ## 🛠️ Technology Stack
 | Component | Technology |
 |-----------|------------|
