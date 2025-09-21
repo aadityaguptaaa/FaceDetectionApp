@@ -10,11 +10,7 @@
 
 
 **FaceDetectionApp** is a **JavaFX desktop application** that performs **real-time face detection** using **OpenCV’s Haar Cascade classifier**. It provides a **user-friendly GUI** for capturing video or images and detecting human faces instantly. Ideal for learning, prototyping, or building advanced face recognition systems.  
-
-
 <br>
-
-
 ## 🚀 Key Features
 - **Real-Time Detection:** Detect faces from webcam or video input instantly.  
 - **Intuitive GUI:** Built with JavaFX (`UI.fxml` & `UIController.java`) for smooth interaction.  
