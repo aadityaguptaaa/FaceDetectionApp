@@ -43,5 +43,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 This project is open-source and free to use under the [MIT License](LICENSE).
 
-## Screenshots
-*(Optional: Add images of your application running, e.g., webcam detection UI)*
+
