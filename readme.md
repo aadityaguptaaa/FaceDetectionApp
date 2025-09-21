@@ -28,6 +28,7 @@
 | IDE | Eclipse |
 | Styling | CSS (`styles.css`) |
 <br>
+
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**  
 ```bash
