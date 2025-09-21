@@ -1,4 +1,4 @@
-# FaceDetectionApp 🎯
+# FaceDetectionApp 
 
 ![Repo Size](https://img.shields.io/github/repo-size/aadityaguptaaa/FaceDetectionApp?color=blue)
 ![Contributors](https://img.shields.io/github/contributors/aadityaguptaaa/FaceDetectionApp?color=green)
@@ -81,3 +81,7 @@ This project is **open-source** under the [MIT License](LICENSE). Use, modify, a
 - Multi-face tracking  
 - Standalone executable for distribution  
 
+
+
+
+> Crafted with ☁️ by [aadityaguptaaa](https://github.com/aadityaguptaaa)
