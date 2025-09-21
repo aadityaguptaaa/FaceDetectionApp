@@ -25,7 +25,6 @@
 
 
 
-
 ## 🛠️ Technology Stack
 | Component | Technology |
 |-----------|------------|
@@ -34,7 +33,6 @@
 | Computer Vision Library | OpenCV (Haar Cascade) |
 | IDE | Eclipse |
 | Styling | CSS (`styles.css`) |
-
 
 
 
