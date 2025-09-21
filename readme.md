@@ -16,6 +16,8 @@
 - **Customizable Design:** Interface styled via `styles.css`.  
 - **Extensible:** Expandable for face recognition, tracking, or AI applications.  
 
+
+
 ## 🛠️ Technology Stack
 | Component | Technology |
 |-----------|------------|
@@ -24,6 +26,9 @@
 | Computer Vision Library | OpenCV (Haar Cascade) |
 | IDE | Eclipse |
 | Styling | CSS (`styles.css`) |
+
+
+
 
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**  
@@ -41,12 +46,17 @@ git clone https://github.com/aadityaguptaaa/FaceDetectionApp.git
    - Execute `Main.java` as a Java Application  
    - GUI window opens to start real-time face detection  
 
+
+
+
 ## 🎮 Usage Guide
 1. Launch the application from Eclipse.  
 2. Click **Start Webcam** to begin video capture.  
 3. Detected faces will be **highlighted in real-time**.  
 
 > Tip: Adjust Haar Cascade parameters in `FaceDetector.java` for better accuracy.  
+
+
 
 
 ## 🤝 Contributing
@@ -57,8 +67,13 @@ We welcome contributions!
 4. Push branch (`git push origin feature-name`)  
 5. Open a **Pull Request**  
 
+
+
+
 ## 📄 License
 This project is **open-source** under the [MIT License](LICENSE). Use, modify, and distribute freely.  
+
+
 
 ## ✨ Future Enhancements
 - Face recognition using deep learning models  
