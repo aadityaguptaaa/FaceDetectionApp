@@ -7,7 +7,12 @@
 ![Issues](https://img.shields.io/github/issues/aadityaguptaaa/FaceDetectionApp)
 ![License](https://img.shields.io/github/license/aadityaguptaaa/FaceDetectionApp)
 
+
+
 **FaceDetectionApp** is a **JavaFX desktop application** that performs **real-time face detection** using **OpenCV’s Haar Cascade classifier**. It provides a **user-friendly GUI** for capturing video or images and detecting human faces instantly. Ideal for learning, prototyping, or building advanced face recognition systems.  
+
+
+
 
 ## 🚀 Key Features
 - **Real-Time Detection:** Detect faces from webcam or video input instantly.  
@@ -15,6 +20,7 @@
 - **Modular Architecture:** Clean code structure with `FaceDetector`, `Main`, and `UIController`.  
 - **Customizable Design:** Interface styled via `styles.css`.  
 - **Extensible:** Expandable for face recognition, tracking, or AI applications.  
+
 
 
 
@@ -26,6 +32,7 @@
 | Computer Vision Library | OpenCV (Haar Cascade) |
 | IDE | Eclipse |
 | Styling | CSS (`styles.css`) |
+
 
 
 
@@ -70,8 +77,11 @@ We welcome contributions!
 
 
 
+
+
 ## 📄 License
 This project is **open-source** under the [MIT License](LICENSE). Use, modify, and distribute freely.  
+
 
 
 
@@ -83,7 +93,5 @@ This project is **open-source** under the [MIT License](LICENSE). Use, modify, a
 
 
 
-
-'''
 
 > Crafted with ☁️ by [aadityaguptaaa](https://github.com/aadityaguptaaa)
