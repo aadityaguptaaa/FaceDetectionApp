@@ -15,6 +15,7 @@
 
 
 
+
 ## 🚀 Key Features
 - **Real-Time Detection:** Detect faces from webcam or video input instantly.  
 - **Intuitive GUI:** Built with JavaFX (`UI.fxml` & `UIController.java`) for smooth interaction.  
