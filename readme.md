@@ -9,16 +9,12 @@
 
 **FaceDetectionApp** is a **JavaFX desktop application** that performs **real-time face detection** using **OpenCV’s Haar Cascade classifier**. It provides a **user-friendly GUI** for capturing video or images and detecting human faces instantly. Ideal for learning, prototyping, or building advanced face recognition systems.  
 
----
-
 ## 🚀 Key Features
 - **Real-Time Detection:** Detect faces from webcam or video input instantly.  
 - **Intuitive GUI:** Built with JavaFX (`UI.fxml` & `UIController.java`) for smooth interaction.  
 - **Modular Architecture:** Clean code structure with `FaceDetector`, `Main`, and `UIController`.  
 - **Customizable Design:** Interface styled via `styles.css`.  
 - **Extensible:** Expandable for face recognition, tracking, or AI applications.  
-
----
 
 ## 🛠️ Technology Stack
 | Component | Technology |
@@ -28,8 +24,6 @@
 | Computer Vision Library | OpenCV (Haar Cascade) |
 | IDE | Eclipse |
 | Styling | CSS (`styles.css`) |
-
----
 
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**  
@@ -47,8 +41,6 @@ git clone https://github.com/aadityaguptaaa/FaceDetectionApp.git
    - Execute `Main.java` as a Java Application  
    - GUI window opens to start real-time face detection  
 
----
-
 ## 🎮 Usage Guide
 1. Launch the application from Eclipse.  
 2. Click **Start Webcam** to begin video capture.  
@@ -56,7 +48,6 @@ git clone https://github.com/aadityaguptaaa/FaceDetectionApp.git
 
 > Tip: Adjust Haar Cascade parameters in `FaceDetector.java` for better accuracy.  
 
----
 
 ## 🤝 Contributing
 We welcome contributions!  
@@ -66,12 +57,8 @@ We welcome contributions!
 4. Push branch (`git push origin feature-name`)  
 5. Open a **Pull Request**  
 
----
-
 ## 📄 License
 This project is **open-source** under the [MIT License](LICENSE). Use, modify, and distribute freely.  
-
----
 
 ## ✨ Future Enhancements
 - Face recognition using deep learning models  
